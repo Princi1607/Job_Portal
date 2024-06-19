@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Job_Portal-2
+Bundle-SymbolicName: Job_Portal-2
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Job_Portal-2.jar,
+ hp/Downloads/EmployeeManagementSystem-master/EmployeeManagementSystem-master/WebContent/WEB-INF/lib/servlet-api-2.5.jar
+Automatic-Module-Name: Job.Portal
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Require-Bundle: jakarta.servlet-api
